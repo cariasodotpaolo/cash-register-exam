@@ -15,7 +15,7 @@ Using Maven:
    
 NOTE: 
 -`shell:>` prompt will be displayed when application has fully started.  
--initial number of bills for each denomination is 10 (configured via properties file
+-initial number of bills for each denomination is 10 (configured via properties file).
 
 COMMANDS:
 
