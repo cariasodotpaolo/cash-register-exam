@@ -39,4 +39,4 @@ NOTE: For simplicity purposes, comma delimiter is mandatory to automatically loa
     
     NOTE: `quit` and `exit` are reserved commands for Spring Shell and therefore can not be used as user command.
 
-DISCLAIMER: Due to time constraint, integration tests as well as repository and controller tests have been skipped.
+DISCLAIMER: Due to time constraint, shell automated integration tests as well as repository and controller unit tests have been skipped.
