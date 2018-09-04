@@ -9,8 +9,8 @@ BUILDING BLOCKS:
 HOW TO RUN APPLICATION:
 
 Using Maven:
-   > mvn clean install
-   > mvn spring-boot:run
+   `> mvn clean install`
+   `> mvn spring-boot:run`
    
 Note: shell:> prompt will be displayed when application has fully started
 
