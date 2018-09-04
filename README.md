@@ -2,7 +2,7 @@
 Interactive Console Command Line Application (Spring Boot + Spring Shell)
 
 BUILDING BLOCKS:
--Spring Boot
+-Spring Boot\n
 -Spring Shell
 -Maven
 
