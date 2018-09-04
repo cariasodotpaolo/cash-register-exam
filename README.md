@@ -1,13 +1,13 @@
 # cash-register-exam
 Interactive Console Command Line Application (Spring Boot + Spring Shell)
 
-BUILDING BLOCKS:  
+## BUILDING BLOCKS:  
 -Java 8  
 -Spring Boot  
 -Spring Shell  
 -Maven  
 
-HOW TO RUN APPLICATION:
+## HOW TO RUN APPLICATION:
 
 Using Maven:  
    `> mvn clean install`  
@@ -17,8 +17,7 @@ NOTE:
 -`shell:>` prompt will be displayed when application has fully started.  
 -initial number of bills for each denomination is 10 (configured via properties file).
 
-COMMANDS:
-
+## COMMANDS:
 1. Show current status:  
   `shell:> show`
   
